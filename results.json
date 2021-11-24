@@ -6,9 +6,6 @@
             "job": {
                 "description": "Repercusión/m² de edificación (local, vivienda, etc.) de los trabajos de levantado de instalación de fontanería y desagües y parte de red general correspondiente en viviendas, i/acopio de elementos y material aprovechable, retirada de los escombros y material sobrante a pie de carga y p.p. de costes indirectos.",
                 "id": 46,
-                "id_chapter": 4,
-                "id_profesion": 1,
-                "id_unit": 4,
                 "name": "DEMOLICIÓN INST. FONTANERÍA m² SUPERFICIE",
                 "price": 2.71
             },
@@ -25,9 +22,6 @@
             "job": {
                 "description": "m². Demolición de tabicón de ladrillo hueco doble, por medios manuales, i/sus revestimientos (yeso, mortero,...), retirada de escombros a pie de carga, medios auxiliares de obra y p.p. de costes indirectos, según NTE/ADD-9.",
                 "id": 0,
-                "id_chapter": 0,
-                "id_profesion": 0,
-                "id_unit": 1,
                 "name": "DEMOLICIÓN TABICÓN LADRILLO HUECO/DOBLE",
                 "price": 5.3
             },
@@ -44,9 +38,6 @@
             "job": {
                 "description": "PA.Remate lineal en paramento vertical para dar continuidad al mismo consistente en tendido y enlucido de yeso y acabado final en pintura igual a la existente",
                 "id": 17,
-                "id_chapter": 0,
-                "id_profesion": 0,
-                "id_unit": 7,
                 "name": "REMATE DE PARED",
                 "price": 120
             },
@@ -63,9 +54,6 @@
             "job": {
                 "description": "Remate lineal en  techo, o bien, con tendido y enlucido de yeso,  o bien, con de falso techo de escayola o placas de yeso laminado, y posterior pintado igual al existente.",
                 "id": 19,
-                "id_chapter": 0,
-                "id_profesion": 0,
-                "id_unit": 4,
                 "name": "REMATE DE TECHO",
                 "price": 120
             },
@@ -82,9 +70,6 @@
             "job": {
                 "description": "m². Demolición de tabicón de ladrillo hueco doble, por medios manuales, i/sus revestimientos (yeso, mortero,...), retirada de escombros a pie de carga, medios auxiliares de obra y p.p. de costes indirectos, según NTE/ADD-9.",
                 "id": 0,
-                "id_chapter": 0,
-                "id_profesion": 0,
-                "id_unit": 1,
                 "name": "DEMOLICIÓN TABICÓN LADRILLO HUECO/DOBLE",
                 "price": 5.3
             },
@@ -101,9 +86,6 @@
             "job": {
                 "description": "PA.Remate lineal en paramento vertical para dar continuidad al mismo consistente en tendido y enlucido de yeso y acabado final en pintura igual a la existente",
                 "id": 17,
-                "id_chapter": 0,
-                "id_profesion": 0,
-                "id_unit": 7,
                 "name": "REMATE DE PARED",
                 "price": 120
             },
@@ -120,9 +102,6 @@
             "job": {
                 "description": "Remate lineal en  techo, o bien, con tendido y enlucido de yeso,  o bien, con de falso techo de escayola o placas de yeso laminado, y posterior pintado igual al existente.",
                 "id": 19,
-                "id_chapter": 0,
-                "id_profesion": 0,
-                "id_unit": 4,
                 "name": "REMATE DE TECHO",
                 "price": 120
             },
@@ -139,9 +118,6 @@
             "job": {
                 "description": "Repercusión/m² de edificación (local, vivienda, etc.) de los trabajos de levantado de instalación de fontanería y desagües y parte de red general correspondiente en viviendas, i/acopio de elementos y material aprovechable, retirada de los escombros y material sobrante a pie de carga y p.p. de costes indirectos.",
                 "id": 46,
-                "id_chapter": 4,
-                "id_profesion": 1,
-                "id_unit": 4,
                 "name": "DEMOLICIÓN INST. FONTANERÍA m² SUPERFICIE",
                 "price": 2.71
             },
@@ -158,9 +134,6 @@
             "job": {
                 "description": "m². Demolición de tabicón de ladrillo hueco doble, por medios manuales, i/sus revestimientos (yeso, mortero,...), retirada de escombros a pie de carga, medios auxiliares de obra y p.p. de costes indirectos, según NTE/ADD-9.",
                 "id": 0,
-                "id_chapter": 0,
-                "id_profesion": 0,
-                "id_unit": 1,
                 "name": "DEMOLICIÓN TABICÓN LADRILLO HUECO/DOBLE",
                 "price": 5.3
             },
@@ -177,9 +150,6 @@
             "job": {
                 "description": "PA.Remate lineal en paramento vertical para dar continuidad al mismo consistente en tendido y enlucido de yeso y acabado final en pintura igual a la existente",
                 "id": 17,
-                "id_chapter": 0,
-                "id_profesion": 0,
-                "id_unit": 7,
                 "name": "REMATE DE PARED",
                 "price": 120
             },
@@ -196,9 +166,6 @@
             "job": {
                 "description": "Remate lineal en  techo, o bien, con tendido y enlucido de yeso,  o bien, con de falso techo de escayola o placas de yeso laminado, y posterior pintado igual al existente.",
                 "id": 19,
-                "id_chapter": 0,
-                "id_profesion": 0,
-                "id_unit": 4,
                 "name": "REMATE DE TECHO",
                 "price": 120
             },
@@ -215,9 +182,6 @@
             "job": {
                 "description": "m². Demolición de tabicón de ladrillo hueco doble, por medios manuales, i/sus revestimientos (yeso, mortero,...), retirada de escombros a pie de carga, medios auxiliares de obra y p.p. de costes indirectos, según NTE/ADD-9.",
                 "id": 0,
-                "id_chapter": 0,
-                "id_profesion": 0,
-                "id_unit": 1,
                 "name": "DEMOLICIÓN TABICÓN LADRILLO HUECO/DOBLE",
                 "price": 5.3
             },
@@ -234,9 +198,6 @@
             "job": {
                 "description": "PA.Remate lineal en paramento vertical para dar continuidad al mismo consistente en tendido y enlucido de yeso y acabado final en pintura igual a la existente",
                 "id": 17,
-                "id_chapter": 0,
-                "id_profesion": 0,
-                "id_unit": 7,
                 "name": "REMATE DE PARED",
                 "price": 120
             },
@@ -253,9 +214,6 @@
             "job": {
                 "description": "Remate lineal en  techo, o bien, con tendido y enlucido de yeso,  o bien, con de falso techo de escayola o placas de yeso laminado, y posterior pintado igual al existente.",
                 "id": 19,
-                "id_chapter": 0,
-                "id_profesion": 0,
-                "id_unit": 4,
                 "name": "REMATE DE TECHO",
                 "price": 120
             },
@@ -272,9 +230,6 @@
             "job": {
                 "description": "m². Tabique de ladrillo hueco doble 25x12x9 cm recibido con mortero de cemento y arena de río M5 según UNE-EN 998-2, i/ replanteo, roturas, humedecido de las piezas y limpieza.",
                 "id": 7,
-                "id_chapter": 1,
-                "id_profesion": 0,
-                "id_unit": 1,
                 "name": "TABICÓN LADRILLO HUECO DOBLE 25x12x9 cm",
                 "price": 25.3
             },
@@ -291,9 +246,6 @@
             "job": {
                 "description": "m². Guarnecido maestreado con yeso grueso YG, de 12 mm de espesor, y enlucido con yeso fino YF de 1mm de espesor, en superficies horizontales y/o verticales, con maestras intermedias separadas 1m y alineadas con cuerda,  i/rayado del yeso tosco antes de enlucir, formación de rincones, aristas y otros remates, p.p. de guardavivos de chapa galvanizada o PVC, distribución de material en planta, limpieza posterior de tajos y p.p. de costes indirectos, s/NTE/RPG-10, 11, 12 y 13.",
                 "id": 4,
-                "id_chapter": 1,
-                "id_profesion": 0,
-                "id_unit": 1,
                 "name": "GUARNECIDO MAESTREADO Y ENLUCIDO",
                 "price": 10.9
             },
@@ -310,9 +262,6 @@
             "job": {
                 "description": "m². Pintura plástica color lisa PROCOLOR mix o similar, lavable dos manos, en paramentos verticales y horizontales poco irregulares i/lijado y emplastecido en zonas necesarias muy visibles, con AGUAPLAST STANDAR,  y acabado.",
                 "id": 137,
-                "id_chapter": 11,
-                "id_profesion": "",
-                "id_unit": 1,
                 "name": "PINTURA PLÁSTICA COLOR CALIDAD NORMAL",
                 "price": 5.8
             },
@@ -329,9 +278,6 @@
             "job": {
                 "description": "m². Tabique de ladrillo hueco doble 25x12x9 cm recibido con mortero de cemento y arena de río M5 según UNE-EN 998-2, i/ replanteo, roturas, humedecido de las piezas y limpieza.",
                 "id": 7,
-                "id_chapter": 1,
-                "id_profesion": 0,
-                "id_unit": 1,
                 "name": "TABICÓN LADRILLO HUECO DOBLE 25x12x9 cm",
                 "price": 25.3
             },
