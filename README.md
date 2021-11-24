@@ -7,20 +7,20 @@
 
 | id_chapter | name |	name_es |
 | --- | --- | --- |
-| 0	| Demolition	Demolición |
-| 1	| Masonry & Walls	Albañilería & Tabiquería |
-| 2	| Insulation	Aislamiento |
-| 3	| Waterproofing	Impermeabilización |
-| 4	| Plumbing	Fontanería |
-| 5	| Heating & Cooling	Climatización |
-| 6	| Electricity & Lighting	Electricidad & Iluminación |
-| 7	| Ceiling	Techo |
-| 8	| Wall and floor tiling	Solados y Alicatados |
-| 9	| Windows	Ventanas |
-| 10	| Wood carpentry	Carpintería de madera |
-| 11	| Painting	Pintura |
-| 12	| Kitchen room	Cocina |
-| 13	| Others	Varios |
+| 0	| Demolition |	Demolición |
+| 1	| Masonry & Walls |	Albañilería & Tabiquería |
+| 2	| Insulation |	Aislamiento |
+| 3	| Waterproofing |	Impermeabilización |
+| 4	| Plumbing |	Fontanería |
+| 5	| Heating & Cooling |	Climatización |
+| 6	| Electricity & Lighting |	Electricidad & Iluminación |
+| 7	| Ceiling |	Techo |
+| 8	| Wall and floor tiling |	Solados y Alicatados |
+| 9	| Windows |	Ventanas |
+| 10	| Wood carpentry |	Carpintería de madera |
+| 11	| Painting |	Pintura |
+| 12	| Kitchen room |	Cocina |
+| 13	| Others |	Varios |
 
 6. Present data in a nice, but clear way (using external CSS library is allowed). Try to add interactions to the table (tooltips, animations).
 7. Display values with units, price and sum (value X price) in columns.
