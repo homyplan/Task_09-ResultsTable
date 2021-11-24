@@ -3,7 +3,7 @@
 1. Prepare and share with us blank react project on github
 2. Fetch data from file, or serve data from prepared rest API (results.json) (add instructions how to run server in README.md)
 3. Design and prepare a table as a component containing data from attached json file: results.json
-4. Use chapter descriptions from the table below (You can write it down in app state)
+4. Use chapter descriptions/title from the table below
 
 | id_chapter | name |	name_es |
 | --- | --- | --- |
