@@ -1,7 +1,7 @@
 # Task_09-ResultsTable
 
 1. Prepare and share with us test project of Yours on github
-2. Fetch data from file (results.json) included in this repo, or serve data from prepared by Yourself rest API (add instructions to README.md how to run server)
+2. Fetch data from file (results.json) included in this repo, or serve data from prepared by Yourself rest API (add instructions to README.md how to run server). You will find list of jobs there with some additional data.
 3. Design and prepare a table as a component containing data from attached json file: results.json
 4. Use chapter descriptions/title from the table below
 
