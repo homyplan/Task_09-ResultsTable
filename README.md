@@ -1,7 +1,7 @@
 # Task_09-ResultsTable
 
 1. Prepare and share with us blank react project on github
-2. Fetch data from file, or serve data from prepared rest API (results.json) (add instructions how to run server in README.md)
+2. Fetch data from file (results.json) included in this repo, or serve data from prepared by Yourself rest API (add instructions to README.md how to run server)
 3. Design and prepare a table as a component containing data from attached json file: results.json
 4. Use chapter descriptions/title from the table below
 
