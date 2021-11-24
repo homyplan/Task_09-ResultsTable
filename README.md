@@ -23,7 +23,7 @@
 | 13	| Others |	Varios |
 
 6. Present data in a nice, but clear way (using external CSS library is allowed). Try to add interactions to the table (tooltips, animations).
-7. Display values with units, price and sum (value X price) in columns.
+7. Display values with units, price and sum (value X price X coef) in columns. Check all calculations afterwards.
 8. Group jobs with the same id in rows (do not repaeat the same jobs) and sum up sums of theirs in last column. Sum up theirs sums.
 9. Calculate and show somewhere in the table overall sum of all sums.
 10. Add sorting options (by clicking on icons) to give posibility to sort jobs by chapter: "id_chapter", decision: "dec_id", sum: "sum"
