@@ -4,6 +4,13 @@
 2. Fetch data from file, or serve data from prepared rest API (results.json) (add instructions how to run server in README.md)
 3. Design and prepare a table as a component containing data from attached json file: results.json
 4. Use chapter descriptions from the table below (You can write it down in app state)
+
+| Column 1 Header | Column 2 Header | Column 3 Header |
+| --------------- | --------------- | --------------- |
+| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
+| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
+| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
+
 | id_chapter | name |	name_es |
 | --- | --- | --- |
 | 0	| Demolition	Demolición |
